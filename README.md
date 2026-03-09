@@ -36,5 +36,3 @@ src/
 - **Tailwind CSS 3**
 - **Framer Motion 11**
 - **Lucide React**
-
-2. Arraste a pasta `dist/` no [netlify.com/drop](https://app.netlify.com/drop)
